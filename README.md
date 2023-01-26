@@ -1,3 +1,3 @@
 Proyecto Prueba de como crear repositorio y clonarlo 
 
-Samuel
+Samuel Montenegro
